@@ -1,0 +1,7 @@
+C:\Users\r.tyo\source\repos\CSharpPractModule05\CSharpPractModule05\bin\Debug\CSharpPractModule05.exe.config
+C:\Users\r.tyo\source\repos\CSharpPractModule05\CSharpPractModule05\bin\Debug\CSharpPractModule05.exe
+C:\Users\r.tyo\source\repos\CSharpPractModule05\CSharpPractModule05\bin\Debug\CSharpPractModule05.pdb
+C:\Users\r.tyo\source\repos\CSharpPractModule05\CSharpPractModule05\obj\Debug\CSharpPractModule05.csprojAssemblyReference.cache
+C:\Users\r.tyo\source\repos\CSharpPractModule05\CSharpPractModule05\obj\Debug\CSharpPractModule05.csproj.CoreCompileInputs.cache
+C:\Users\r.tyo\source\repos\CSharpPractModule05\CSharpPractModule05\obj\Debug\CSharpPractModule05.exe
+C:\Users\r.tyo\source\repos\CSharpPractModule05\CSharpPractModule05\obj\Debug\CSharpPractModule05.pdb
